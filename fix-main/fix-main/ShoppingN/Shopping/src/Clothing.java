@@ -1,3 +1,5 @@
+//test
+//test
 public class Clothing extends Product{
     private char size;
     private String colour;
